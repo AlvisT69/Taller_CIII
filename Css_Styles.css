@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap');
+
+:root{
+
+    --color-dark: #1b1b1b; 
+    --color-light: #ffffff;
+    --color-gold: #c7b8a5;
+    --color-esqueleto:#EFF3F5;
+    
+    }
+    
+    body{
+    
+        font-family: 'Oswald', sans-serif;
+        font-weight: 200;
+        background-color: var(--color-dark);
+        color: var(--color-light);
+        
+    
+    }
+
+    .whitxt{
+
+        color: #EFF3F5;
+    }
+
+    a{
+        background-color: #2e89e3;
+        border-radius: 100px;
+        
+    }
+
+    .imgRedonda {
+        width:150px;
+        height:150px;
+        border-radius:150px;
+    }
+
+    .bgg{
+
+        background-color: #EFF3F5;
+    }
+
+    .txtt{
+        text-align: left;
+        margin-left: 70px;
+        margin-right: 70px;
+    }
+
+    .container{
+        
+        padding-top: 1rem;
+
+    }
+    
+    .tlt{
+    
+       margin: 0 auto;
+       width: 1400px;
+       height: 50px; 
+       background:rgba(0,0,0,0.3);
+       border-radius: 20px;
+       font-size: 25px;
+       font-weight: 50px;
+       margin-top: 50px;
+       margin-bottom: 50px;
+       padding-top: 4px;
+       padding-bottom: 4px;
+
+    }
+
+    a{
+
+        text-decoration: none;
+    }
+
+    .columc{
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        border-radius: 20px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .col{
+        
+        background:rgba(0,0,0,0.3);
+    
+    }
+
+    
+
+    .coloor{
+
+        color: #4284CF;
+    }
